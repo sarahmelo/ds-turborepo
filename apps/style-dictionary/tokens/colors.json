@@ -1,0 +1,14 @@
+{
+  "color": {
+     "base": {
+         "primary": { "value": "#007bff" },
+         "secondary": { "value": "#00ff00" }
+     },
+     "background": {
+      "button": {
+          "primary": { "value": "{color.base.primary}" },
+          "secondary": { "value": "{color.base.secondary}" }
+       }
+    }
+  }
+}
