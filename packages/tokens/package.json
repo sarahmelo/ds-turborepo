@@ -12,5 +12,13 @@
   "description": "",
   "devDependencies": {
     "style-dictionary": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sarahmelo/ds-turborepo/",
+    "directory": "packages/tokens"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
