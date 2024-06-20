@@ -4,7 +4,7 @@
          "primary": { "value": "#007bff" },
          "secondary": { "value": "#00ff00" },
          "background": { "value": "#FFFFFF" },
-         "background2": { "value": "#FFFFFF" }
+         "background2": { "value": "#FFFFFA" }
      },
      "background": {
       "button": {
