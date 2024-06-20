@@ -19,6 +19,6 @@
     "directory": "packages/tokens"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "@sarahmelo:registry": "https://npm.pkg.github.com/"
   }
 }
