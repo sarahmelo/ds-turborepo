@@ -1,5 +1,4 @@
 {
-  "name": "ds-turborepo",
   "private": true,
   "scripts": {
     "build": "turbo build",
@@ -11,9 +10,6 @@
     "release": "turbo run build && changeset publish"
   },
   "devDependencies": {
-    "@repo/eslint-config": "*",
-    "@repo/typescript-config": "*",
-    "prettier": "^3.2.5",
     "turbo": "latest"
   },
   "engines": {
